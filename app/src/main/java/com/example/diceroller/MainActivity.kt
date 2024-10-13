@@ -55,6 +55,7 @@ fun DiceWithImageAndButton(
         4 -> R.drawable.dice_4
         5 -> R.drawable.dice_5
         else -> R.drawable.dice_6
+        
     }
 
     Column(
